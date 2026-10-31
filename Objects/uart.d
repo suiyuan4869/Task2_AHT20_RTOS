@@ -1,0 +1,15 @@
+.\objects\uart.o: BSP\uart.c
+.\objects\uart.o: BSP\uart.h
+.\objects\uart.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\uart.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\uart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\uart.o: .\Libraries\CMSIS\stm32f10x_conf.h
+.\objects\uart.o: .\Libraries\StdPeriph\inc\stm32f10x_rcc.h
+.\objects\uart.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\uart.o: .\Libraries\StdPeriph\inc\stm32f10x_gpio.h
+.\objects\uart.o: .\Libraries\StdPeriph\inc\stm32f10x_usart.h
+.\objects\uart.o: .\Libraries\StdPeriph\inc\misc.h
+.\objects\uart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\uart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\uart.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h

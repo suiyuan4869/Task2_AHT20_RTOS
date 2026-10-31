@@ -1,0 +1,14 @@
+.\objects\aht20.o: Drivers\aht20.c
+.\objects\aht20.o: Drivers\aht20.h
+.\objects\aht20.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\aht20.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\aht20.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\aht20.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\aht20.o: .\Libraries\CMSIS\stm32f10x_conf.h
+.\objects\aht20.o: .\Libraries\StdPeriph\inc\stm32f10x_rcc.h
+.\objects\aht20.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\aht20.o: .\Libraries\StdPeriph\inc\stm32f10x_gpio.h
+.\objects\aht20.o: .\Libraries\StdPeriph\inc\stm32f10x_usart.h
+.\objects\aht20.o: .\Libraries\StdPeriph\inc\misc.h
+.\objects\aht20.o: Drivers\i2c_soft.h
+.\objects\aht20.o: .\BSP\delay.h

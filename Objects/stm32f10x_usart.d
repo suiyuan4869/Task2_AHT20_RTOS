@@ -1,0 +1,12 @@
+.\objects\stm32f10x_usart.o: Libraries\StdPeriph\src\stm32f10x_usart.c
+.\objects\stm32f10x_usart.o: .\Libraries\StdPeriph\inc\stm32f10x_usart.h
+.\objects\stm32f10x_usart.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\stm32f10x_usart.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\stm32f10x_usart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_usart.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\stm32f10x_usart.o: .\Libraries\CMSIS\stm32f10x_conf.h
+.\objects\stm32f10x_usart.o: .\Libraries\StdPeriph\inc\stm32f10x_rcc.h
+.\objects\stm32f10x_usart.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\stm32f10x_usart.o: .\Libraries\StdPeriph\inc\stm32f10x_gpio.h
+.\objects\stm32f10x_usart.o: .\Libraries\StdPeriph\inc\stm32f10x_usart.h
+.\objects\stm32f10x_usart.o: .\Libraries\StdPeriph\inc\misc.h

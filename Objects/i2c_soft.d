@@ -1,0 +1,14 @@
+.\objects\i2c_soft.o: Drivers\i2c_soft.c
+.\objects\i2c_soft.o: Drivers\i2c_soft.h
+.\objects\i2c_soft.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\i2c_soft.o: .\Libraries\CMSIS\core_cm3.h
+.\objects\i2c_soft.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c_soft.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\objects\i2c_soft.o: .\Libraries\CMSIS\stm32f10x_conf.h
+.\objects\i2c_soft.o: .\Libraries\StdPeriph\inc\stm32f10x_rcc.h
+.\objects\i2c_soft.o: .\Libraries\CMSIS\stm32f10x.h
+.\objects\i2c_soft.o: .\Libraries\StdPeriph\inc\stm32f10x_gpio.h
+.\objects\i2c_soft.o: .\Libraries\StdPeriph\inc\stm32f10x_usart.h
+.\objects\i2c_soft.o: .\Libraries\StdPeriph\inc\misc.h
+.\objects\i2c_soft.o: .\BSP\delay.h
+.\objects\i2c_soft.o: .\BSP\dwt.h
